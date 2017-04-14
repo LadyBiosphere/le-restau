@@ -24,10 +24,12 @@ In this project, students will learn to use:
 For educators, this project can also be a good opportunity to talk about:
 - good and bad web development practices
 - image optimisation techniques
+- web accesssibility
 - search engine optimisation (SEO).
 
 ### Helpful resources:
 - Adobe Kuler
+- Font Awesome
 - Web Developer toolbar (Firefox & Chrome)
 - Chrome Lens (Chrome only)
 - HTML & CSS validator
