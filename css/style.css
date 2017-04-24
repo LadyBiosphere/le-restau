@@ -54,6 +54,14 @@ h2{
     font-size: 36px;
 }
 
+#warning-message{
+   text-align: center; 
+}
+
+#warning-message a{
+    text-decoration: none;
+}
+
 #home-menu ul{
     padding: 0;
     list-style-type: none;
@@ -145,7 +153,7 @@ h2{
     clear: both;
 }
 
-.rating i{
+.rating i, #warning-message a{
     color: #f34949;
 }
 
@@ -184,7 +192,7 @@ footer a:hover{
 }
 
 /* How to add a slight delay to the nav and footer links */
-header nav li a, footer a{
+header nav li a, footer a, #warning-message a{
     transition-duration: .3s, .3s;
     transition-timing-function: ease, ease-out;
     transition-delay: 0s, .3s; 
