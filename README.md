@@ -9,7 +9,7 @@ The purpose of this project is to teach students how to create responsive websit
 To get the most out of this project, students should already know basic HTML markup and CSS. Things they should know include:
 - how to correctly indent and structure an HTML file
 - how to connect to an external CSS stylesheet
-- how to link multiple web pages together
+- how to link web pages together
 - HTML DIV's, classes and ID's
 - HTML5 syntax, e.g. header, nav, section, footer.
 
@@ -25,6 +25,7 @@ In this project, students will learn about:
 For educators, this project can also be a good opportunity to talk about:
 - good and bad web development practices
 - 404 error messages
+- HTML and CSS validation
 - image optimisation techniques
 - web accesssibility
 - search engine optimisation (SEO).
