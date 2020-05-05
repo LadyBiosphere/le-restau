@@ -92,6 +92,7 @@ h2{
     z-index: 1;
     background: #fff;
     padding-right: 15px;
+    font-size: 18px;
 }
 
 .price{
@@ -102,6 +103,7 @@ h2{
     z-index: 1;
     background: #fff;
     padding-left: 15px;
+    font-size: 18px;
 }
 
 .description{
